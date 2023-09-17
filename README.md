@@ -3,12 +3,12 @@
 </p>
 
 # ProxyGrabber
-> ProxyGrabber fetches Http/Https, Socks4, and Socks5 proxies from [proxyscrape.com](https://proxyscrape.com/home) from 64 different countries including Iran.
+> Simples ProxyGrabber fetches Http/Https, Socks4, and Socks5 proxies.
 
 ### Software Pictures
-| 1st. Pic | 2nd. Pic |
-| --- | ---  |
-|![](https://image.prntscr.com/image/TtCZaWspQJCpkRiOgVW6yw.png) | ![](https://image.prntscr.com/image/QFq-LPn5QRi91QNUrl-b-g.png)  |
+| 1st. Pic |
+| --- |
+|![](https://i.imgur.com/ijmQidf.png) |
 
 ## Download
 You can download binary from releases:
